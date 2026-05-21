@@ -1,0 +1,6 @@
+{
+  "name": "វត្តមាន ឈើទាល",
+  "description": "កម្មវិធីគ្រប់គ្រងវត្តមានសិស្សរបស់អនុវិទ្យាល័យឈើទាល",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

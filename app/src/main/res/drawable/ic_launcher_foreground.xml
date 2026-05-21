@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Star background accent representing excellence -->
+    <path
+        android:fillColor="#FFC107"
+        android:pathData="M54,24 L61,38 L76,40 L65,51 L68,66 L54,59 L40,66 L43,51 L32,40 L47,38 Z" />
+    <!-- School Graduation Cap -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,34 L80,44 L54,54 L28,44 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M38,49 L38,62 C38,65 45,68 54,68 C63,68 70,65 70,62 L70,49 L54,55 Z" />
+    <!-- Tassel hanging from graduation cap -->
+    <path
+        android:fillColor="#FFC107"
+        android:pathData="M80,44 L76,57 L72,57 L72,53 Z" />
+</vector>
